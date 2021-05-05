@@ -10,3 +10,4 @@
 - https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@v1.0.0/image/crab_logo.png
 - https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@v1.0.0/image/polar_bear.jpg
 - https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@v1.0.0/image/public_logo.jpg
+- https://cdn.jsdelivr.net/gh/qqlcx5/figure-bed@v1.0.0/image/star-field.jpg
