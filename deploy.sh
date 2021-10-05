@@ -3,8 +3,8 @@ set -e
 git add -A
 git commit -m "tags"
 git push origin master
-git tag -d v1.0.0
-git tag -a v1.0.0 -m "image"
+git tag -d v1.0.2
+git tag -a v1.0.2 -m "sh"
 git push origin --tags -f
 cd -
 
