@@ -3,7 +3,8 @@ set -e
 git add -A
 git commit -m "tags"
 git push origin master
-# git tag -d basics
+git tag -d basics
+# 打标签
 git tag -a basics -m "image"
 git push origin --tags -f
 cd -
